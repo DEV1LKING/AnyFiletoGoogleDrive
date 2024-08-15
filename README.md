@@ -4,7 +4,7 @@ Hi there!<img src="https://user-images.githubusercontent.com/28010975/210132376-
 
 Please note that my GitHub username has recently changed from [@DEV1LKING](https://github.com/DEV1LKING) to [@DHRUB006](https://github.com/DHRUB006). If you are looking for my other repositories, you can find them under my new username ([@DHRUB006](https://github.com/DHRUB006)). 
 
-<a href="https://github.com/DEV1LKING"><img src="https://user-images.githubusercontent.com/28010975/210105818-e9190a17-157a-4bd9-ab92-900e3e55e908.png" width="160" align="center"></a><img src="https://user-images.githubusercontent.com/28010975/210132373-5de1924e-349b-4c43-9188-225f86a6d07e.png" align="center"><a href="https://github.com/DHRUB006"><img src="https://iili.io/Jrem6kN.png" width="160" align="center"></a>
+<a href="https://github.com/DEV1LKING"><img src="https://iili.io/JcDEwPe.jpg" width="160" align="center"></a><img src="https://user-images.githubusercontent.com/28010975/210132373-5de1924e-349b-4c43-9188-225f86a6d07e.png" align="center"><a href="https://github.com/DHRUB006"><img src="https://iili.io/Jrem6kN.png" width="160" align="center"></a>
 
 In order to ensure that visitors from old URLs are still able to find my repositories, I have created a GitHub organization with the previous handle ([@DEV1LKING](https://github.com/DEV1LKING)) which will be used to publish updates about my current repositories. 
 
